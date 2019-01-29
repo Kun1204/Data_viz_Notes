@@ -1,0 +1,4 @@
+1 To communicate information clearly
+2 Avoid distorting what the data has to say
+3 reveal the data at several levels of detail, from a broad overview to the fine structure
+
